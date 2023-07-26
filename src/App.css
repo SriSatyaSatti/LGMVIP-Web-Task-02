@@ -1,0 +1,25 @@
+table,tr,td{
+  border: 3px solid black;
+  border-collapse: collapse;
+  color: purple;
+  padding: 0.5%;
+}
+h1{
+  color:red;
+}
+button{
+  color:white;
+  background-color: blue;
+  height:30px;
+  width: 100px;
+  border-radius: 5px;
+  box-shadow: 5%;
+  border: none;
+}
+div{
+  background-color: antiquewhite;
+  width: auto;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 1%;
+}
